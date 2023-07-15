@@ -6,6 +6,11 @@
 #define WIFI_SSID                    "kitties"
 #define WIFI_PASSWORD                "bummercurry"
 
+#define GRAFANA_URL                  "https://graphite-prod-10-prod-us-central-0.grafana.net/graphite/metrics"
+#define GRAFANA_USER                 "724394"
+#define GRAFANA_KEY                  "eyJrIjoiMmFmMTNmZDQyZWJmMmFlZDY4NmI0NTU5ODExNjIyODI2YTIwMDVkZiIsIm4iOiJncmFwaGl0ZTIiLCJpZCI6Nzc0NDM4fQ=="
+#define INTERVAL                     5
+
 #define WIFI_CONNECT_WAIT_MAX        (30 * 1000)
 
 #define NTP_SERVER1                  "pool.ntp.org"
